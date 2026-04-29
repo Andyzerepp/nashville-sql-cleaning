@@ -30,6 +30,11 @@ to validate the cleaned dataset.
 ## Key Insight from Final Analysis
 Nashville had the highest average sale price at $366,624.76, compared to the dataset average of $327,506.91-approximately 12% above the market average, suggesting stronger demand or higher-value property concentration in the Nashville city proper relative to surrounding areas
 
+## Cohort Analysis
+Cohort analysis revealed extremely low repeat transaction rates (under 5%) across all monthly cohorts-
+consistent with real estate purchasing behavior where properties rarely resell within the same year. A notable exception was a 4.3% retention spike at Month 4 in the 2013-01 cohort, suggesting possible short-term property flipping activity.
+<img width="512" height="406" alt="cohort_table_analysis" src="https://github.com/user-attachments/assets/7bfaeaef-5b75-4ce9-8d45-1ebf2b09a6db" />
+
 
 ## Files
 <img width="358" height="451" alt="Sold as vacant count" src="https://github.com/user-attachments/assets/3d5f8692-e43d-4e44-935f-87b9caf3f128" />
